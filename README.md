@@ -8,7 +8,7 @@ It's also an effort to help maintain my eyesight. See [Hi Dark Themers, by Eliot
 
 ## Usage
 
-1. Clone this repo or [download the `1981.itermcolors. `]https://raw.githubusercontent.com/michaelbiven/1981-itermcolors/master/1981.itermcolors)
+1. Clone this repo or [download the `1981.itermcolors. `](https://raw.githubusercontent.com/michaelbiven/1981-itermcolors/master/1981.itermcolors)
 1. `iTerm2 > Preferences > Profiles > Colors Tab`
 2. Select `Color Presets`
 3. Select `Import`
